@@ -129,3 +129,10 @@ dist
 package-lock.json
 
 .idea
+.vscode
+.history
+.DS_Store
+pnpm-lock.yaml
+
+.idea
+.idea/*
