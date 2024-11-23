@@ -137,3 +137,5 @@ pnpm-lock.yaml
 .idea
 .idea/*
 .DS_Store
+app/examples/.DS_Store
+.DS_Store
